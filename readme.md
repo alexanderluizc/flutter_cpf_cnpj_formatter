@@ -1,0 +1,9 @@
+Usage:
+
+```
+TextField(
+  inputFormatters: [
+    CPFCNPJInputFormatter(),
+  ],
+),
+```
